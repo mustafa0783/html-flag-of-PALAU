@@ -1,0 +1,20 @@
+.Flag{
+    height: 600px;
+    width: 900px;
+    background-color: #0a74fe;
+    
+}
+.Flag > div{
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: relative;
+    top: 150px;
+    left: 300px;
+}
+#head{
+    font-size: 3rem;
+    color: chartreuse;
+    text-align: center;
+}
